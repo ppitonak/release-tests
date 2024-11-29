@@ -9,4 +9,4 @@ spec:
         resolver: http
         params:
         - name: url
-          value: "https://raw.githubusercontent.com/openshift-pipelines/tektoncd-catalog/refs/heads/p/tasks/task-opc/0.2.2/task-opc.yaml"
+          value: "https://raw.githubusercontent.com/openshift-pipelines/tektoncd-catalog/refs/heads/p/tasks/task-tkn/0.2.2/task-tkn.yaml"
